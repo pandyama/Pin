@@ -1,11 +1,15 @@
 body{
     background-color: #E5E5E5;
+    height: 100%;
 }
 
 .top {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
+  /* border-style: solid; */
 }
 
 .main {
@@ -38,6 +42,7 @@ h1{
 .grid-item {
   background-color: #4462ff;
   margin: 3px;
+  border-style: none;
   border-radius: 12px;
   text-align: center;
   padding: 17px;
@@ -49,6 +54,7 @@ h1{
 .grid-item-green{
     background-color: #44ff7c;
     margin: 3px;
+    border-style: none;
     border-radius: 12px;
     text-align: center;
     padding: 17px;
@@ -60,6 +66,7 @@ h1{
 .grid-item-red{
     background-color: #ff4444;
     margin: 3px;
+    border-style: none;
     border-radius: 12px;
     text-align: center;
     padding: 17px;
