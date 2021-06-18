@@ -3,4 +3,4 @@
 
 **Figma Mockup below**
 
-![1](https://github.com/pandyama/Pin/blob/master/Figma_Screenshot.PNG)
+![1](https://github.com/pandyama/Pin/blob/master/Screenshot.PNG)
