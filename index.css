@@ -1,6 +1,6 @@
-body{
-    background-color: #E5E5E5;
-    height: 100%;
+body {
+  background-color: #e5e5e5;
+  height: 100%;
 }
 
 .top {
@@ -25,13 +25,14 @@ body{
   margin: 3px;
   color: white;
   font-size: 25px;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   height: 100px;
   align-items: center;
 }
 
-h1{
-    margin: 5px;
+h1 {
+  margin: 5px;
 }
 
 .grid-container {
@@ -48,29 +49,40 @@ h1{
   padding: 17px;
   font-size: 35px;
   color: white;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
-.grid-item-green{
-    background-color: #44ff7c;
-    margin: 3px;
-    border-style: none;
-    border-radius: 12px;
-    text-align: center;
-    padding: 17px;
-    font-size: 35px;
-    color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+/* button:hover {
+  background-color: white;
+  color: #444bff;
+  box-shadow: 0px 6px 6px rgba(#444bff, 0.2);
+  border-style: solid;
+  border-width: 1px;
+} */
+
+.grid-item-green {
+  background-color: #44ff7c;
+  margin: 3px;
+  border-style: none;
+  border-radius: 12px;
+  text-align: center;
+  padding: 17px;
+  font-size: 35px;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 
-.grid-item-red{
-    background-color: #ff4444;
-    margin: 3px;
-    border-style: none;
-    border-radius: 12px;
-    text-align: center;
-    padding: 17px;
-    font-size: 35px;
-    color: white;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+.grid-item-red {
+  background-color: #ff4444;
+  margin: 3px;
+  border-style: none;
+  border-radius: 12px;
+  text-align: center;
+  padding: 17px;
+  font-size: 35px;
+  color: white;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
