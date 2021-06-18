@@ -27,6 +27,7 @@ function numPress(num) {
 }
 
 function deletePin(){
+    counter = 0;
     document.getElementById("pin1").innerHTML = "";
     document.getElementById("pin2").innerHTML = "";
     document.getElementById("pin3").innerHTML = "";
