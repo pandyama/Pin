@@ -2,7 +2,6 @@
 
 body {
   background-color: #e5e5e5;
-  height: 100%;
 }
 
 .top {
@@ -11,7 +10,6 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  /* border-style: solid; */
 }
 
 .main {
@@ -65,8 +63,6 @@ button:hover {
   box-shadow: 0px 3px 3px rgba(#444bff, 0.2);
   transition: all 0.4s ease;
   transition-property: background-color, color;
-  /* border-style: solid; */
-  /* border-width: 1px; */
 }
 
 .grid-item-green {
